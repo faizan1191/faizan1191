@@ -1,5 +1,5 @@
 ### Hi there, 👋 I am Mohd Faizan
-I work on Magento (PHP, MySQL, jQuery, Javacript) and loves exploring JavaScript.
+I work on Magento (PHP, MySQL, jQuery, Javacript) and loves exploring GoLang.
 
 -----
 
